@@ -1,0 +1,7 @@
+VehicleID,Type,Route,TotalSeats,AvailableSeats,BasePrice
+TRN-001,Train,Cairo-Alexandria,120,118,150.00
+TRN-002,Train,Cairo-Luxor,80,80,300.00
+TRN-003,Train,Alexandria-Aswan,100,100,450.00
+AIR-001,Airplane,Cairo-Dubai,180,180,2500.00
+AIR-002,Airplane,Cairo-Istanbul,150,150,1800.00
+AIR-003,Airplane,Cairo-London,200,200,5000.00
